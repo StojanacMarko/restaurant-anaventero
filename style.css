@@ -33,42 +33,6 @@ body {
     animation: slider 60s infinite;
 }
 
-/*
-@keyframes slider {
-    0% {
-        background-image: url("img/pic1.jpeg");
-    }
-    20% {
-        background-image: url("img/pic1.jpeg");
-    }
-    20.01% {
-        background-image: url("img/pic2.jpeg");
-    }
-    40% {
-        background-image: url("img/pic2.jpeg");
-    }
-    40.01% {
-        background-image: url("img/pic3.jpeg");
-    }
-    60% {
-        background-image: url("img/pic3.jpeg");
-    }
-    60.01% {
-        background-image: url("img/pic4.jpeg");
-    }
-    80% {
-        background-image: url("img/pic4.jpeg");
-    }
-    80.01% {
-        background-image: url("img/pic5.png");
-    }
-    100% {
-        background-image: url("img/pic5.png");
-    }
-}
-
-*/
-
 /* Navigation */
 
 #navbar {
